@@ -35,7 +35,11 @@ namespace _08.EnumerationsSetOfValues
         // we define enum with enum keyword and name of the enum here in our example Color
         // Complilation error! -We can  use only preddifined values !!!! here -only Red,Green, Blue , Black
             //enum is data type, predifened data type;
-        
+        var values = Enum.GetValues(typeof(Day)); //returna an Arrray of type data enum Day
+        foreach (var item in values)
+	{
+            Console.WriteLine(item);
+	}
 
     }
 }
