@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\ClassAndObject\08.Enumerations\bin\Debug\netcoreapp3.1\08.EnumerationsSetOfValues.exe
+C:\Users\Bla\source\repos\ClassAndObject\08.Enumerations\bin\Debug\netcoreapp3.1\08.EnumerationsSetOfValues.deps.json
+C:\Users\Bla\source\repos\ClassAndObject\08.Enumerations\bin\Debug\netcoreapp3.1\08.EnumerationsSetOfValues.runtimeconfig.json
+C:\Users\Bla\source\repos\ClassAndObject\08.Enumerations\bin\Debug\netcoreapp3.1\08.EnumerationsSetOfValues.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\ClassAndObject\08.Enumerations\bin\Debug\netcoreapp3.1\08.EnumerationsSetOfValues.dll
+C:\Users\Bla\source\repos\ClassAndObject\08.Enumerations\bin\Debug\netcoreapp3.1\08.EnumerationsSetOfValues.pdb
+C:\Users\Bla\source\repos\ClassAndObject\08.Enumerations\obj\Debug\netcoreapp3.1\08.EnumerationsSetOfValues.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\ClassAndObject\08.Enumerations\obj\Debug\netcoreapp3.1\08.EnumerationsSetOfValues.AssemblyInfo.cs
+C:\Users\Bla\source\repos\ClassAndObject\08.Enumerations\obj\Debug\netcoreapp3.1\08.EnumerationsSetOfValues.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\ClassAndObject\08.Enumerations\obj\Debug\netcoreapp3.1\08.EnumerationsSetOfValues.dll
+C:\Users\Bla\source\repos\ClassAndObject\08.Enumerations\obj\Debug\netcoreapp3.1\08.EnumerationsSetOfValues.pdb
+C:\Users\Bla\source\repos\ClassAndObject\08.Enumerations\obj\Debug\netcoreapp3.1\08.EnumerationsSetOfValues.genruntimeconfig.cache
